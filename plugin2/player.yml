@@ -1,0 +1,7 @@
+name: welcome
+main: net.mcbbs.mxddl.plugin2
+version: 0.0.1
+commands:
+  HAYO:
+    description: HAYO
+    usage: /<command>
